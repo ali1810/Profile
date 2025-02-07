@@ -1,4 +1,4 @@
-# Rakesh Seenu's Portfolio
+# Mushtaq Ali Portfolio
 
 Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in a dynamic and accessible way. The site is built using MkDocs and hosted on GitHub Pages.
 
