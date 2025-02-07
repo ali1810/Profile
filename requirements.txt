@@ -1,0 +1,9 @@
+mkdocs==1.6.1
+mkdocs-jupyter
+mkdocs-material==9.5.47
+mkdocstrings-python
+mkdocs-material-extensions
+mkdocs-git-revision-date-localized-plugin
+mkdocs-include-markdown-plugin
+mkdocstrings
+
