@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website repository! This project showcases my skills, experience, and projects in a dynamic and accessible way. The site is built using MkDocs and hosted on GitHub Pages.
 
-[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https%3A%2F%2Frakesh-seenu.github.io%2Fresume_mkdocs%2F)]((https://ali1810.github.io/Profile)/)  
+[![Website Status](https://img.shields.io/website?up_message=Live&down_message=Offline&url=https%3A%2F%2Frakesh-seenu.github.io%2Fresume_mkdocs%2F)](https://ali1810.github.io/Profile/)  
 
 ## About Me
 
