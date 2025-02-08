@@ -12,7 +12,7 @@ I'm a passionate Software Engineer with a strong interest in DevOps, Cloud Compu
 
 Visit my live portfolio website to learn more about me and my work:
 
-[[[https://rakesh-seenu.github.io/resume_mkdocs](https://ali1810.github.io/Profile/)] 
+[(https://ali1810.github.io/Profile/)](https://ali1810.github.io/Profile/) 
 
 ## Technologies Used
 
