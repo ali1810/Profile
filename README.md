@@ -6,7 +6,8 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 
 ## About Me
 
-I'm a passionate Software Engineer with a strong interest in DevOps, Cloud Computing, AI/ML.  I love building innovative solutions and continuously learning new technologies.  This portfolio reflects my journey and the projects I'm most proud of.
+My name is Mushtaq Ali and I am about to finish my PhD in Artificial Intelligencecs from KIT University , and I'm passionate about Cheminformatics,Omics Data Analysis,Data Science, AI, Machine Learning, Generative AI.
+
 
 ## Explore My Portfolio
 
