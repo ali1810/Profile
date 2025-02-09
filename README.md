@@ -6,7 +6,7 @@ Welcome to my portfolio website repository! This project showcases my skills, ex
 
 ## About Me
 
-My name is Mushtaq Ali and I am about to finish my PhD in Artificial Intelligencecs from KIT University , I am broadly interested in studying AI, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and healthcare. You can read my Curriculum Vitae if you want.
+My name is Mushtaq Ali and I am about to finish my PhD in Artificial Intelligencecs from KIT University , I am broadly interested in studying AI, bioinformatics, cheminformatics, drug discovery, materials informatics, graph neural networks, and healthcare.
 
 
 ## Explore My Portfolio
