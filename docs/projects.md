@@ -19,7 +19,7 @@ hide:
 
      NumPy, Pandas, XGBoost, Chembert, GNN, MPNN, Stremalit,   
      Please follow the link below to predict the solubility in water 
-  [**Water Solubility Prediction**](https://aqua-solubility-prediction.streamlit.app/)  
+[**Water Solubility Prediction**](https://aqua-solubility-prediction.streamlit.app/)  
 ??? info "Multi-Solvent Solubility Prediction"
 
     ### Project Summary
