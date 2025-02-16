@@ -18,8 +18,8 @@ hide:
     ### Techstacks Used
 
      NumPy, Pandas, XGBoost, Chembert, GNN, MPNN, Stremalit, 
-     [**Water Solubility Prediction)**](https://aqua-solubility-prediction.streamlit.app/)
-
+     
+[**Water Solubility Prediction)**](https://aqua-solubility-prediction.streamlit.app/) 
 ??? info "Multi-Solvent Solubility Prediction"
 
     ### Project Summary
