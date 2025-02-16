@@ -9,7 +9,7 @@ hide:
 ---
 
 ???+ info "Water Solubility Prediction"
-
+    [**Water Solubility Prediction)**](https://aqua-solubility-prediction.streamlit.app/)  
     ### Project Summary
 
     Developed an AI-driven solubility prediction model with water that reduced prediction time from 1–2 days to just seconds, enabling chemists to accelerate compound screening and decision-making processes by over 95%.
@@ -17,9 +17,7 @@ hide:
 
     ### Techstacks Used
 
-     NumPy, Pandas, XGBoost, Chembert, GNN, MPNN, Stremalit, 
-     
-[**Water Solubility Prediction)**](https://aqua-solubility-prediction.streamlit.app/) 
+     NumPy, Pandas, XGBoost, Chembert, GNN, MPNN, Stremalit,     
 ??? info "Multi-Solvent Solubility Prediction"
 
     ### Project Summary
