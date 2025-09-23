@@ -5,7 +5,7 @@
 
 ---
 
-- [Mushtaq Ali ] [Sylvia Vanderheiden, Christoph W. Grathwol, Pascal Friederich, Nicole Jung,Stefan Bräse]."**Advancing Aqueous Solubility Prediction: A Machine Learning Approach for Organic Compounds Using a Curated Dataset**." Journal of Chemical Information and Modeling (Accepted, ACS),2025.
+- [Mushtaq Ali ] [Sylvia Vanderheiden, Christoph W. Grathwol, Pascal Friederich, Nicole Jung,Stefan Bräse]."**Advancing Aqueous Solubility Prediction: A Machine Learning Approach for Organic Compounds Using a Curated Dataset**." Journal of Chemical Information and Modeling (Published, ACS),2025.
 
 
 - [Mushtaq Ali ] [Pascal Friederich, Nicole Jung,Stefan Bräse] "**A dataset covering aqueous solubility data extracted from PubChem**." (Manuscript in Preparation), 2025.
