@@ -3,7 +3,6 @@ hide:
   - navigation
   - toc
 ---
-🌟 Interests & Hobbies
 
 Beyond research, coding, and AI innovation, I enjoy activities that challenge both the mind and body:
 
