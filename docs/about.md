@@ -4,15 +4,38 @@ hide:
   - toc
 ---
 
-# ABOUT ME
+## 👨‍💻 About Me
 
-Hey! My name is **Mushtaq Ali** and I am thrilled to have you here on my page! I am about to finish my **PhD in Artificial Intelligencecs from KIT University** , and I'm passionate about _Cheminformatics_,_Omics Data Analysis_,_Data Science_, _AI_, _Machine Learning_, _Generative AI_.
+Hey there! 👋 I'm **Dr. Mushtaq Ali**, a Computational Scientist, AI Engineer, and Data Science enthusiast with a **PhD in Artificial Intelligence and Computational Chemistry from Karlsruhe Institute of Technology (KIT), Germany**.
 
-I'm from a sweet place called **Jaunpur** _(Uttar Pradesh)_ in India. I have completed my Master from **SRH University (Heidelberg)** I have worked for 4 years in **Ambiguous Solutions Pvt. Ltd**_(New Delhi)_.
-Currently woknig in **KIT as Reseach Scientist** _(Karlsruhe  Germany)_
+My research and professional interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, Cheminformatics, Bioinformatics, Spatial Omics, and Data Science**. I am passionate about building intelligent systems that accelerate scientific discovery, particularly in healthcare, drug discovery, molecular property prediction, and scientific computing.
 
-I love listening & telling stories, philosophical discussions.
+🌍 Originally from **Jaunpur, Uttar Pradesh, India**, I completed my Master's degree in **Big Data & Business Analytics** from **SRH Heidelberg University, Germany**. Before joining KIT, I worked as a **Data Analyst at Ambiguous Solutions Pvt. Ltd., New Delhi**, where I gained valuable experience in data analytics, business intelligence, and data-driven decision-making.
 
-Feel free to connect with me over [Insta chats](https://www.instagram.com/ali745990/) or just [mail me](mailto:ali10786@gmail.com.com) and let's get to know each other!
+🔬 I have worked as a **Research Scientist at Karlsruhe Institute of Technology (KIT)**, developing AI-powered solutions using **Machine Learning, Deep Learning, Graph Neural Networks (GNNs), Large Language Models (LLMs), and Advanced Data Analytics** to solve complex challenges in chemistry, materials science, and life sciences.
 
-Think beyond your limitations – innovation begins where boundaries end." 🚀 !
+### 🚀 Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Generative AI & Large Language Models (LLMs)
+* Data Science & Predictive Analytics
+* Cheminformatics & Drug Discovery
+* Bioinformatics & Spatial Omics
+* Graph Neural Networks (GNNs)
+* Scientific Computing & Computational Chemistry
+* Multimodal AI & Explainable AI
+
+### 🌱 Beyond Technology
+
+When I'm not coding, researching, or building AI solutions, I enjoy:
+
+* 📖 Reading, listening to, and sharing inspiring stories
+* 🧠 Philosophical discussions and exploring new ideas
+* 🌍 Learning about different cultures and perspectives
+* 🤝 Networking and collaborating with innovators worldwide
+
+### 📫 Let's Connect
+
+I'm always excited to collaborate on research projects, AI innovations, data science initiatives, and opportunities that create real-world impact.
+
+💡 **"Think beyond your limitations — innovation begins where boundaries end."** 🚀
