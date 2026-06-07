@@ -58,13 +58,12 @@ Karlsruhe Institute of Technology (KIT), 2025.
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar">
 </a>
 
-<a href="https://orcid.org/">
-    <img src="https://img.shields.io/badge/ORCID-Researcher-green?style=for-the-badge&logo=orcid">
+<a href="https://orcid.org/0009-0007-6808-5783">
+    <img src="https://img.shields.io/badge/ORCID-0009--0007--6808--5783-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 
 
 
-- [Mushtaq Ali ] [ Pascal Friederich, Nicole Jung, Stefan Bräse]" "**Dissolving the Mystery: AI-Driven Solubility Prediction Across 25 Solvents and Temperatures**” (Manuscript in Preparation), 2026
 
 
 ---
