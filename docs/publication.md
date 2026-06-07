@@ -54,8 +54,8 @@ Karlsruhe Institute of Technology (KIT), 2025.
 
 ### 📈 Research Metrics
 
-<a href="https://scholar.google.com/">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar">
+<a href="https://scholar.google.com/citations?user=D01Qya4AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Mushtaq%20Ali-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </a>
 
 <a href="https://orcid.org/0009-0007-6808-5783">
