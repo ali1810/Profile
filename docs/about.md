@@ -4,7 +4,6 @@ hide:
   - toc
 ---
 
-## 👨‍💻 About Me
 
 Hey there! 👋 I'm **Dr. Mushtaq Ali**, a Computational Scientist, AI Engineer, and Data Science enthusiast with a **PhD in Artificial Intelligence and Computational Chemistry from Karlsruhe Institute of Technology (KIT), Germany**.
 
@@ -12,7 +11,7 @@ My research and professional interests lie at the intersection of **Artificial I
 
 🌍 Originally from **Jaunpur, Uttar Pradesh, India**, I completed my Master's degree in **Big Data & Business Analytics** from **SRH Heidelberg University, Germany**. Before joining KIT, I worked as a **Data Analyst at Ambiguous Solutions Pvt. Ltd., New Delhi**, where I gained valuable experience in data analytics, business intelligence, and data-driven decision-making.
 
-🔬 I have worked as a **Research Scientist at Karlsruhe Institute of Technology (KIT)**, developing AI-powered solutions using **Machine Learning, Deep Learning, Graph Neural Networks (GNNs), Large Language Models (LLMs), and Advanced Data Analytics** to solve complex challenges in chemistry, materials science, and life sciences.
+🔬 I am working as **Research Scientist at Karlsruhe Institute of Technology (KIT)**, developing AI-powered solutions using **Machine Learning, Deep Learning, Graph Neural Networks (GNNs), Large Language Models (LLMs), and Advanced Data Analytics** to solve complex challenges in chemistry, materials science, and life sciences.
 
 ### 🚀 Areas of Interest
 
